@@ -1,0 +1,15 @@
+0, dirt
+1, mossyDirt
+2, crackedCastleFloorDark
+3, crackedCastleFloorLight
+4, crackedCastleFloor
+5, crackedCastleWall1
+6, crackedCastleWall2
+7, castleDoor
+8, grass1
+9, grass2
+10, dungeonwallsouth
+11, purplewallnormal
+12, dungeonwallside
+13, dungeonwalltop
+14, purplefloor
